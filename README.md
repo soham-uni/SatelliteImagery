@@ -139,7 +139,7 @@ The project experiments are contained within `model_training.ipynb`:
 ### Why didn't the images improve the score?
 * **Strong Proxies:** Features like `zipcode` and `sqft_living15` already encode high-quality information about neighborhood affluence and density.
 * **Marginal Gains:** While satellite imagery captures greenery and road access, these are often already reflected in the "Grade" and "Condition" columns of the King County dataset.
-* **Context vs. Detail:** Standard satellite tiles may lack the resolution to distinguish specific property upgrades (e.g., interior renovations) that significantly impact the price.
+* **Context vs. Detail:** Standard satellite tiles may lack the resolution to distinguish specific property upgrades (e.g., interior renovations) that significantly impact the price.  
 
 ### Future Opportunities
 * **Data Sparsity:** Multimodal pipelines will likely show higher utility in regions where structured real estate data is unavailable or unreliable.
