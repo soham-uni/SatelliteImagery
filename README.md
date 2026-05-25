@@ -142,7 +142,7 @@ The project experiments are contained within `model_training.ipynb`:
 * **Context vs. Detail:** Standard satellite tiles may lack the resolution to distinguish specific property upgrades (e.g., interior renovations) that significantly impact the price.  
 
 ### Future Opportunities
-* **Data Sparsity:** Multimodal pipelines will likely show higher utility in regions where structured real estate data is unavailable or unreliable.
+* **Data Sparsity:** Multimodal pipelines will likely show higher utility in regions where structured real estate data is unreliable or unavailable.
 * **Fine-tuning:** Unfreezing CNN layers to train specifically on urban morphology rather than general ImageNet features.
 * **Multi-scale Inputs:** Feeding the model both a "close-up" property view and a "wide-angle" neighborhood view.
 
