@@ -2,7 +2,7 @@
 
 A multimodal real estate valuation system that predicts property prices by combining structured housing attributes with visual features derived from satellite imagery.
 
-This project investigates whether environmental context—such as **green cover, road density, and waterfront proximity**—extracted from satellite images can improve traditional property valuation models beyond standard tabular data (e.g., square footage, number of rooms).
+This project investigates whether environmental context, such as **green cover, road density, and waterfront proximity**—extracted from satellite images can improve traditional property valuation models beyond standard tabular data (e.g., square footage, number of rooms).
 
 ---
 
