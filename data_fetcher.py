@@ -26,7 +26,7 @@ def fetch_images_from_csv(csv_path, image_dir, id_col="id", max_workers=16):
     df = pd.read_csv(csv_path)
     image_dir = Path(image_dir)
     image_dir.mkdir(parents=True, exist_ok=True)
-
+ 
     tasks = []
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
