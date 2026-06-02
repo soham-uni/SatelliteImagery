@@ -67,7 +67,7 @@ SatelliteImagery/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/soham-uni/SatelliteImagery.git](https://github.com/soham-uni/SatelliteImagery.git
+git clone https://github.com/soham-uni/SatelliteImagery.git
 cd SatelliteImagery
 ```
 ### 2. Create Environment and Install Dependencies
